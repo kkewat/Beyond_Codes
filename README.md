@@ -13,11 +13,17 @@ Assignment of beyond codes
 5. Prints identified citations in JSON format and a user-friendly table.
 
 ### Requirements:-
+
 •	Python 3.10 or above 
+
 •	requests library (pip install requests)
 
+
 ### Usage :-
+
 •	install the required libraries
+
 •	save the code as name.py(eg. Citation.py)
+
 •	run the file in cmd as python name.py 
 
